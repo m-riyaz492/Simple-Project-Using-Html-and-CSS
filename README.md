@@ -1,1 +1,1 @@
-# Simple-Project-Using-Html-and-CSs
+# Simple-Project-Using-Html-and-CSS
